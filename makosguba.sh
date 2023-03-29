@@ -1,0 +1,1 @@
+echo kész a mákosguba
