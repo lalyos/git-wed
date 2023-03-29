@@ -1,1 +1,1 @@
-echo kész a mákosguba
+1 felöntöm tejjel
