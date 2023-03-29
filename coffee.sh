@@ -1,3 +1,3 @@
-echo gimme coffee
-echo gimme milk
-echo gimme 2 sugars
+echo give me coffee
+echo give me milk
+echo give me 2 sugars
